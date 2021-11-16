@@ -1,2 +1,0 @@
-# syte
-git init
